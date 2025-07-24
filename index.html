@@ -12002,8 +12002,9 @@ break;
 	});
             </script>
 		<script>
-		  if (window.location.hash && window.location.hash.includes('confirmation_token')) {
-		    window.location.href = '/admin/' + window.location.hash;
+		  const hash = window.location.hash;
+		  if (hash.includes('confirmation_token') || hash.includes('invite_token')) {
+		    window.location.href = '/admin/' + hash;
 		  }
 		</script>
         </body>
