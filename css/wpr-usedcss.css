@@ -2686,7 +2686,7 @@
 
             @font-face {
                 font-family: Astra;
-                src: url(/wp-content/themes/astra/assets/fonts/astra.woff) format("woff"),url(/wp-content/themes/astra/assets/fonts/astra.ttf) format("truetype"),url(/wp-content/themes/astra/assets/fonts/astra.svg#astra) format("svg");
+                src: url(../wp-content/themes/astra/assets/fonts/astra.woff) format("woff"),url(../wp-content/themes/astra/assets/fonts/astra.ttf) format("truetype"),url(../wp-content/themes/astra/assets/fonts/astra.svg#astra) format("svg");
                 font-weight: 400;
                 font-style: normal;
                 font-display: swap
@@ -3359,7 +3359,7 @@
                 font-style: normal;
                 font-weight: 500;
                 font-display: swap;
-                src: url(/wp-content/astra-local-fonts/poppins/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2) format('woff2');
+                src: url(../wp-content/astra-local-fonts/poppins/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2) format('woff2');
                 unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD
             }
 
@@ -3368,7 +3368,7 @@
                 font-style: normal;
                 font-weight: 600;
                 font-display: swap;
-                src: url(/wp-content/astra-local-fonts/poppins/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2) format('woff2');
+                src: url(../wp-content/astra-local-fonts/poppins/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2) format('woff2');
                 unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD
             }
 
@@ -3377,7 +3377,7 @@
                 font-style: normal;
                 font-weight: 700;
                 font-display: swap;
-                src: url(/wp-content/astra-local-fonts/poppins/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2) format('woff2');
+                src: url(../wp-content/astra-local-fonts/poppins/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2) format('woff2');
                 unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD
             }
 
@@ -4865,7 +4865,7 @@
                 left: 0;
                 width: 100%;
                 height: 100%;
-                background: url(/wp-content/uploads/2021/08/sidebarSprit.png) no-repeat
+                background: url(../wp-content/uploads/2021/08/sidebarSprit.png) no-repeat
             }
 
             .stickyContacts ul li.email a:before {
@@ -4937,7 +4937,7 @@
                 margin-top: -13px;
                 text-indent: -999999px;
                 border: none;
-                background: url(/wp-content/uploads/2021/01/pd2SliderArrows.png) no-repeat;
+                background: url(../wp-content/uploads/2021/01/pd2SliderArrows.png) no-repeat;
                 z-index: 2
             }
 
@@ -5092,7 +5092,7 @@
                 width: 34px;
                 height: 34px;
                 margin-top: -17px;
-                background: url(/wp-content/uploads/2021/04/timelineArrows.png) no-repeat;
+                background: url(../wp-content/uploads/2021/04/timelineArrows.png) no-repeat;
                 text-indent: -999999999px;
                 z-index: 4;
                 padding: 0
@@ -5124,7 +5124,7 @@
                 top: 50%;
                 width: 23px;
                 height: 19px;
-                background: url(/wp-content/uploads/2021/12/pc3Arrows.png) no-repeat;
+                background: url(../wp-content/uploads/2021/12/pc3Arrows.png) no-repeat;
                 padding: 0;
                 text-indent: -999999999px;
                 z-index: 1
@@ -5197,7 +5197,7 @@
                 margin-left: -14px;
                 width: 27px;
                 height: 27px;
-                background: url(/wp-content/uploads/2022/01/quoteIcon.png) no-repeat
+                background: url(../wp-content/uploads/2022/01/quoteIcon.png) no-repeat
             }
 
             ul.pc3TestimonialSlider li.slick-slide {
@@ -5210,7 +5210,7 @@
                 margin-top: -36px;
                 width: 37px;
                 height: 71px;
-                background: url(/wp-content/uploads/2022/01/testimonialArrow.png) no-repeat;
+                background: url(../wp-content/uploads/2022/01/testimonialArrow.png) no-repeat;
                 z-index: 1;
                 padding: 0;
                 text-indent: -999999999px
@@ -5254,7 +5254,7 @@
             .serchPalette input[name=search] {
                 width: 100%;
                 border: 1px solid #dadada;
-                background: url(/wp-content/uploads/2021/11/search.png) 98% 10px no-repeat #fff
+                background: url(../wp-content/uploads/2021/11/search.png) 98% 10px no-repeat #fff
             }
 
             .tempFAQsSection>h2 {
@@ -5350,7 +5350,7 @@
                 top: 70px;
                 width: 56px;
                 height: 56px;
-                background: url(/wp-content/uploads/2021/01/lp4SliderArrowHvr.png) no-repeat;
+                background: url(../wp-content/uploads/2021/01/lp4SliderArrowHvr.png) no-repeat;
                 text-indent: -99999999999px;
                 padding: 0;
                 z-index: 1
@@ -5506,7 +5506,7 @@
                 bottom: -50px;
                 width: 40px;
                 height: 40px;
-                background: url(/wp-content/uploads/2022/07/s11Arrow.png) no-repeat;
+                background: url(../wp-content/uploads/2022/07/s11Arrow.png) no-repeat;
                 text-indent: -9999999px;
                 padding: 0;
                 z-index: 1
@@ -5539,7 +5539,7 @@
                 left: 0;
                 width: 50px;
                 height: 48px;
-                background: url(/wp-content/uploads/2022/07/sliderArrow.png) no-repeat;
+                background: url(../wp-content/uploads/2022/07/sliderArrow.png) no-repeat;
                 text-indent: -99999999px;
                 z-index: 1;
                 padding: 0
